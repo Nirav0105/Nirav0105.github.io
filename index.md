@@ -4,7 +4,7 @@ This is my home page! My name is Nirav Sharma and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Nirav0105.
+My GitHub page is [here](http://github.com/Nirav0105).
 
 ### CPSC 120
 
