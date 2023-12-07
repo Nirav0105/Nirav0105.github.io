@@ -18,4 +18,4 @@ Another great lab was lab 5, where we learned how to calculate the area of a rec
 
 * Lab 6
 
-Since blackjack is my favorite card game, lab 6, part 2 was my favorite since I was thrilled to code it. I gained knowledge on how to code the Aces' correct values. Overall, it was a positive experience and I wish we were taught how to code more card games as it was very intriguing. git mv index.html index.md
+Since blackjack is my favorite card game, lab 6, part 2 was my favorite since I was thrilled to code it. I gained knowledge on how to code the Aces' correct values. Overall, it was a positive experience and I wish we were taught how to code more card games as it was very intriguing. 
